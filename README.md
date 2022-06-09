@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @d2-desai
-- 👀 I’m interested in python coding and mathematics
+- 👀 I’m interested in machine learning, Quantitative Trading and Mathematics
 - 🌱 I’m currently studying Mathematics Major
 - 📫 How to reach me- email at dishadesai2002@gmail.com
 
